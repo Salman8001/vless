@@ -58,7 +58,7 @@
         "172.16.0.2/32",
         "2606:4700:110:8735:bb29:91bc:1c82:aa73/128"
       ],
-      "private_key": "sCTWSU8SpNYv6m0kfYHQmKUleydsKkCJ3Kf7CH2MQXA=",
+      "private_key": "SCIe/zaSLxi+o061w4ZMyMvzkpZ1CwGPL0FkoqmFjko=",
       "peers": [
         {
           "address": "188.114.96.214",
@@ -70,9 +70,9 @@
           ],
           "persistent_keepalive_interval": 30,
           "reserved": [
-            181,
-            151,
-            73
+            132,
+            70,
+            158
           ]
         }
       ],
@@ -88,7 +88,7 @@
         "172.16.0.2/32",
         "2606:4700:110:8735:bb29:91bc:1c82:aa73/128"
       ],
-      "private_key": "QADJa6WNVwJ1XC8Ln2hxKDKgV9CcjTgb+0TVi74V3UA=",
+      "private_key": "4Jxv02MISbqh4znCaS2riOtV7qSI3a8xyM9pd+aVf1M=",
       "peers": [
         {
           "address": "188.114.99.22",
@@ -100,9 +100,9 @@
           ],
           "persistent_keepalive_interval": 30,
           "reserved": [
-            36,
-            232,
-            137
+            7,
+            213,
+            118
           ]
         }
       ],

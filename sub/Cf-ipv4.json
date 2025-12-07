@@ -51,53 +51,53 @@
     },
     {
         "colo": "SJC",
-        "ip": "104.19.33.194",
+        "ip": "104.17.16.249",
+        "latency": 130,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 295,
+        "time": "2025-12-06 09:25:03"
+    },
+    {
+        "colo": "SJC",
+        "ip": "104.17.35.129",
+        "latency": 130,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 280,
+        "time": "2025-12-06 08:26:04"
+    },
+    {
+        "colo": "SJC",
+        "ip": "104.17.163.25",
+        "latency": 130,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 280,
+        "time": "2025-12-06 08:25:45"
+    },
+    {
+        "colo": "SJC",
+        "ip": "104.19.77.47",
         "latency": 128,
         "line": "CT",
         "loss": 0,
         "node": "QYZJBGP",
-        "speed": 280,
-        "time": "2025-12-06 02:15:03"
-    },
-    {
-        "colo": "SJC",
-        "ip": "104.19.98.19",
-        "latency": 148,
-        "line": "CT",
-        "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 280,
-        "time": "2025-12-06 02:06:02"
-    },
-    {
-        "colo": "SJC",
-        "ip": "104.19.54.253",
-        "latency": 148,
-        "line": "CT",
-        "loss": 0,
-        "node": "QYZJBGP",
         "speed": 255,
-        "time": "2025-12-06 02:05:43"
+        "time": "2025-12-06 10:05:04"
     },
     {
         "colo": "SJC",
-        "ip": "104.19.30.26",
-        "latency": 147,
+        "ip": "104.18.152.251",
+        "latency": 131,
         "line": "CT",
         "loss": 0,
         "node": "QYZJBGP",
-        "speed": 235,
-        "time": "2025-12-06 02:15:43"
-    },
-    {
-        "colo": "SJC",
-        "ip": "104.17.228.209",
-        "latency": 150,
-        "line": "CT",
-        "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 215,
-        "time": "2025-12-06 02:16:03"
+        "speed": 205,
+        "time": "2025-12-06 10:05:46"
     },
     {
         "colo": "HKG",

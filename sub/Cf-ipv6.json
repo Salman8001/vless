@@ -1,152 +1,152 @@
 [
     {
         "colo": "Default",
-        "ip": "2606:4700:91b1:72f9:2582:3d88:fde1:79d6",
+        "ip": "2606:4700:9760:64d0:e022:5e7:c108:e3b6",
         "latency": 3,
         "line": "CM",
         "loss": 0,
         "node": "NETCUP",
-        "speed": 608,
-        "time": "2026-05-20 23:19:19"
+        "speed": 615,
+        "time": "2026-05-21 03:39:19"
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:9a94:8c7c:6fc6:53e6:bd15:1c2",
+        "ip": "2606:4700:90c1:806a:6975:1fb8:9a6c:8ec4",
         "latency": 3,
         "line": "CM",
         "loss": 0,
         "node": "NETCUP",
-        "speed": 602,
-        "time": "2026-05-20 23:19:19"
+        "speed": 597,
+        "time": "2026-05-21 03:39:19"
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:91b1:93f:960c:81d0:9909:5acb",
-        "latency": 3,
-        "line": "CM",
-        "loss": 0,
-        "node": "NETCUP",
-        "speed": 581,
-        "time": "2026-05-20 23:19:19"
-    },
-    {
-        "colo": "Default",
-        "ip": "2606:4700:3007:5b9c:5a29:5f6e:4b91:efd2",
+        "ip": "2606:4700:9769:91c3:d381:820:c69e:b09b",
         "latency": 0,
         "line": "CM",
         "loss": 0,
         "node": "PROHOSTING24",
-        "speed": 577,
-        "time": "2026-05-20 23:28:35"
+        "speed": 324,
+        "time": "2026-05-21 03:48:36"
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:90dd:4fc8:615a:f329:a705:21e6",
+        "ip": "2606:4700:8dd8:9ec7:eedd:dc9:9a43:efd",
         "latency": 3,
         "line": "CM",
         "loss": 0,
-        "node": "PROHOSTING24",
-        "speed": 329,
-        "time": "2026-05-20 23:28:34"
+        "node": "NETCUP",
+        "speed": 313,
+        "time": "2026-05-21 03:39:19"
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:91b1:72f9:2582:3d88:fde1:79d6",
+        "ip": "2606:4700:3056:40aa:232c:2270:39f5:6ef2",
+        "latency": 3,
+        "line": "CM",
+        "loss": 0,
+        "node": "NETCUP",
+        "speed": 311,
+        "time": "2026-05-21 03:39:19"
+    },
+    {
+        "colo": "Default",
+        "ip": "2606:4700:9760:64d0:e022:5e7:c108:e3b6",
         "latency": 3,
         "line": "CT",
         "loss": 0,
         "node": "NETCUP",
-        "speed": 608,
-        "time": "2026-05-20 23:19:19"
+        "speed": 615,
+        "time": "2026-05-21 03:39:19"
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:9a94:8c7c:6fc6:53e6:bd15:1c2",
+        "ip": "2606:4700:90c1:806a:6975:1fb8:9a6c:8ec4",
         "latency": 3,
         "line": "CT",
         "loss": 0,
         "node": "NETCUP",
-        "speed": 602,
-        "time": "2026-05-20 23:19:19"
+        "speed": 597,
+        "time": "2026-05-21 03:39:19"
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:91b1:93f:960c:81d0:9909:5acb",
-        "latency": 3,
-        "line": "CT",
-        "loss": 0,
-        "node": "NETCUP",
-        "speed": 581,
-        "time": "2026-05-20 23:19:19"
-    },
-    {
-        "colo": "Default",
-        "ip": "2606:4700:3007:5b9c:5a29:5f6e:4b91:efd2",
+        "ip": "2606:4700:9769:91c3:d381:820:c69e:b09b",
         "latency": 0,
         "line": "CT",
         "loss": 0,
         "node": "PROHOSTING24",
-        "speed": 577,
-        "time": "2026-05-20 23:28:35"
+        "speed": 324,
+        "time": "2026-05-21 03:48:36"
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:90dd:4fc8:615a:f329:a705:21e6",
+        "ip": "2606:4700:8dd8:9ec7:eedd:dc9:9a43:efd",
         "latency": 3,
         "line": "CT",
         "loss": 0,
-        "node": "PROHOSTING24",
-        "speed": 329,
-        "time": "2026-05-20 23:28:34"
+        "node": "NETCUP",
+        "speed": 313,
+        "time": "2026-05-21 03:39:19"
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:91b1:72f9:2582:3d88:fde1:79d6",
+        "ip": "2606:4700:3056:40aa:232c:2270:39f5:6ef2",
+        "latency": 3,
+        "line": "CT",
+        "loss": 0,
+        "node": "NETCUP",
+        "speed": 311,
+        "time": "2026-05-21 03:39:19"
+    },
+    {
+        "colo": "Default",
+        "ip": "2606:4700:9760:64d0:e022:5e7:c108:e3b6",
         "latency": 3,
         "line": "CU",
         "loss": 0,
         "node": "NETCUP",
-        "speed": 608,
-        "time": "2026-05-20 23:19:19"
+        "speed": 615,
+        "time": "2026-05-21 03:39:19"
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:9a94:8c7c:6fc6:53e6:bd15:1c2",
+        "ip": "2606:4700:90c1:806a:6975:1fb8:9a6c:8ec4",
         "latency": 3,
         "line": "CU",
         "loss": 0,
         "node": "NETCUP",
-        "speed": 602,
-        "time": "2026-05-20 23:19:19"
+        "speed": 597,
+        "time": "2026-05-21 03:39:19"
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:91b1:93f:960c:81d0:9909:5acb",
-        "latency": 3,
-        "line": "CU",
-        "loss": 0,
-        "node": "NETCUP",
-        "speed": 581,
-        "time": "2026-05-20 23:19:19"
-    },
-    {
-        "colo": "Default",
-        "ip": "2606:4700:3007:5b9c:5a29:5f6e:4b91:efd2",
+        "ip": "2606:4700:9769:91c3:d381:820:c69e:b09b",
         "latency": 0,
         "line": "CU",
         "loss": 0,
         "node": "PROHOSTING24",
-        "speed": 577,
-        "time": "2026-05-20 23:28:35"
+        "speed": 324,
+        "time": "2026-05-21 03:48:36"
     },
     {
         "colo": "Default",
-        "ip": "2606:4700:90dd:4fc8:615a:f329:a705:21e6",
+        "ip": "2606:4700:8dd8:9ec7:eedd:dc9:9a43:efd",
         "latency": 3,
         "line": "CU",
         "loss": 0,
-        "node": "PROHOSTING24",
-        "speed": 329,
-        "time": "2026-05-20 23:28:34"
+        "node": "NETCUP",
+        "speed": 313,
+        "time": "2026-05-21 03:39:19"
+    },
+    {
+        "colo": "Default",
+        "ip": "2606:4700:3056:40aa:232c:2270:39f5:6ef2",
+        "latency": 3,
+        "line": "CU",
+        "loss": 0,
+        "node": "NETCUP",
+        "speed": 311,
+        "time": "2026-05-21 03:39:19"
     }
 ]

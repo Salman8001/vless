@@ -1,103 +1,103 @@
 [
     {
         "colo": "Default",
-        "ip": "198.41.208.209",
+        "ip": "172.67.174.86",
+        "latency": 137,
+        "line": "CM",
+        "loss": 0,
+        "node": "CDCM",
+        "speed": 295,
+        "time": "2026-10-09 06:19:45"
+    },
+    {
+        "colo": "Default",
+        "ip": "198.41.208.52",
+        "latency": 55,
+        "line": "CM",
+        "loss": 0,
+        "node": "CDCM",
+        "speed": 290,
+        "time": "2026-10-09 06:09:00"
+    },
+    {
+        "colo": "Default",
+        "ip": "198.41.209.234",
+        "latency": 49,
+        "line": "CM",
+        "loss": 0,
+        "node": "CDCM",
+        "speed": 290,
+        "time": "2026-10-09 05:25:48"
+    },
+    {
+        "colo": "Default",
+        "ip": "198.41.209.239",
         "latency": 51,
         "line": "CM",
         "loss": 0,
         "node": "CDCM",
-        "speed": 300,
-        "time": "2026-10-08 18:55:14"
-    },
-    {
-        "colo": "Default",
-        "ip": "172.67.66.216",
-        "latency": 140,
-        "line": "CM",
-        "loss": 0,
-        "node": "CDCM",
-        "speed": 300,
-        "time": "2026-10-08 20:01:21"
-    },
-    {
-        "colo": "Default",
-        "ip": "198.41.209.226",
-        "latency": 56,
-        "line": "CM",
-        "loss": 0,
-        "node": "CDCM",
-        "speed": 300,
-        "time": "2026-10-08 19:06:10"
-    },
-    {
-        "colo": "Default",
-        "ip": "198.41.208.32",
-        "latency": 79,
-        "line": "CM",
-        "loss": 0,
-        "node": "CDCM",
-        "speed": 280,
-        "time": "2026-10-08 20:35:21"
-    },
-    {
-        "colo": "Default",
-        "ip": "172.67.67.10",
-        "latency": 138,
-        "line": "CM",
-        "loss": 0,
-        "node": "CDCM",
         "speed": 270,
-        "time": "2026-10-08 20:01:14"
+        "time": "2026-10-09 05:58:02"
     },
     {
         "colo": "Default",
-        "ip": "104.17.60.201",
-        "latency": 141,
+        "ip": "198.41.208.148",
+        "latency": 50,
+        "line": "CM",
+        "loss": 0,
+        "node": "CDCM",
+        "speed": 255,
+        "time": "2026-10-09 05:47:38"
+    },
+    {
+        "colo": "Default",
+        "ip": "104.18.179.225",
+        "latency": 139,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 300,
+        "time": "2026-10-09 05:26:55"
+    },
+    {
+        "colo": "Default",
+        "ip": "104.17.22.240",
+        "latency": 138,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 295,
+        "time": "2026-10-09 06:06:38"
+    },
+    {
+        "colo": "Default",
+        "ip": "104.16.229.111",
+        "latency": 139,
         "line": "CT",
         "loss": 0,
         "node": "QYZJBGP",
         "speed": 290,
-        "time": "2026-10-08 20:46:40"
+        "time": "2026-10-09 05:46:37"
     },
     {
         "colo": "Default",
-        "ip": "104.16.25.131",
-        "latency": 151,
+        "ip": "104.16.220.167",
+        "latency": 139,
         "line": "CT",
         "loss": 0,
         "node": "QYZJBGP",
-        "speed": 275,
-        "time": "2026-10-08 19:36:54"
+        "speed": 290,
+        "time": "2026-10-09 05:27:12"
     },
     {
         "colo": "Default",
-        "ip": "104.19.184.31",
-        "latency": 142,
+        "ip": "104.19.36.171",
+        "latency": 138,
         "line": "CT",
         "loss": 0,
         "node": "QYZJBGP",
-        "speed": 215,
-        "time": "2026-10-08 18:56:55"
-    },
-    {
-        "colo": "Default",
-        "ip": "104.19.69.174",
-        "latency": 144,
-        "line": "CT",
-        "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 205,
-        "time": "2026-10-08 20:27:15"
-    },
-    {
-        "colo": "Default",
-        "ip": "104.16.123.69",
-        "latency": 142,
-        "line": "CT",
-        "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 205,
-        "time": "2026-10-08 19:56:19"
+        "speed": 250,
+        "time": "2026-10-09 06:06:20"
     },
     {
         "colo": "NRT",

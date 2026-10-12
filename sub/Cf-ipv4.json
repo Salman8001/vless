@@ -1,103 +1,103 @@
 [
     {
         "colo": "Default",
-        "ip": "172.67.174.87",
-        "latency": 135,
-        "line": "CM",
-        "loss": 0,
-        "node": "CDCM",
-        "speed": 290,
-        "time": "2026-10-11 03:39:49"
-    },
-    {
-        "colo": "Default",
-        "ip": "172.67.79.130",
-        "latency": 135,
-        "line": "CM",
-        "loss": 0,
-        "node": "CDCM",
-        "speed": 260,
-        "time": "2026-10-11 03:07:37"
-    },
-    {
-        "colo": "Default",
-        "ip": "198.41.208.9",
-        "latency": 48,
-        "line": "CM",
-        "loss": 0,
-        "node": "CDCM",
-        "speed": 260,
-        "time": "2026-10-11 05:38:47"
-    },
-    {
-        "colo": "Default",
-        "ip": "198.41.208.254",
-        "latency": 50,
-        "line": "CM",
-        "loss": 0,
-        "node": "CDCM",
-        "speed": 260,
-        "time": "2026-10-11 04:55:56"
-    },
-    {
-        "colo": "Default",
-        "ip": "172.67.169.195",
+        "ip": "172.67.69.237",
         "latency": 134,
         "line": "CM",
         "loss": 0,
         "node": "CDCM",
+        "speed": 290,
+        "time": "2026-10-11 12:56:43"
+    },
+    {
+        "colo": "Default",
+        "ip": "172.67.156.216",
+        "latency": 132,
+        "line": "CM",
+        "loss": 0,
+        "node": "CDCM",
+        "speed": 270,
+        "time": "2026-10-11 12:23:23"
+    },
+    {
+        "colo": "Default",
+        "ip": "198.41.209.82",
+        "latency": 56,
+        "line": "CM",
+        "loss": 0,
+        "node": "CDCM",
+        "speed": 270,
+        "time": "2026-10-11 12:45:40"
+    },
+    {
+        "colo": "Default",
+        "ip": "172.67.166.0",
+        "latency": 136,
+        "line": "CM",
+        "loss": 0,
+        "node": "CDCM",
+        "speed": 265,
+        "time": "2026-10-11 13:08:07"
+    },
+    {
+        "colo": "Default",
+        "ip": "198.41.209.171",
+        "latency": 59,
+        "line": "CM",
+        "loss": 0,
+        "node": "CDCM",
+        "speed": 260,
+        "time": "2026-10-11 12:45:48"
+    },
+    {
+        "colo": "Default",
+        "ip": "104.21.225.117",
+        "latency": 145,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
+        "speed": 260,
+        "time": "2026-10-11 13:17:13"
+    },
+    {
+        "colo": "Default",
+        "ip": "104.19.59.167",
+        "latency": 142,
+        "line": "CT",
+        "loss": 0,
+        "node": "QYZJBGP",
         "speed": 255,
-        "time": "2026-10-11 04:12:30"
+        "time": "2026-10-11 12:56:53"
     },
     {
         "colo": "Default",
-        "ip": "104.19.134.6",
-        "latency": 139,
+        "ip": "104.16.98.231",
+        "latency": 143,
         "line": "CT",
         "loss": 0,
         "node": "QYZJBGP",
-        "speed": 295,
-        "time": "2026-10-11 04:46:54"
+        "speed": 245,
+        "time": "2026-10-11 13:16:53"
     },
     {
         "colo": "Default",
-        "ip": "104.19.102.130",
-        "latency": 139,
+        "ip": "104.18.137.224",
+        "latency": 142,
         "line": "CT",
         "loss": 0,
         "node": "QYZJBGP",
-        "speed": 290,
-        "time": "2026-10-11 03:57:12"
+        "speed": 220,
+        "time": "2026-10-11 13:16:35"
     },
     {
         "colo": "Default",
-        "ip": "104.17.231.250",
-        "latency": 139,
+        "ip": "104.18.191.253",
+        "latency": 142,
         "line": "CT",
         "loss": 0,
         "node": "QYZJBGP",
-        "speed": 290,
-        "time": "2026-10-11 03:36:39"
-    },
-    {
-        "colo": "Default",
-        "ip": "104.19.187.92",
-        "latency": 139,
-        "line": "CT",
-        "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 250,
-        "time": "2026-10-11 04:26:57"
-    },
-    {
-        "colo": "Default",
-        "ip": "162.159.36.227",
-        "latency": 71,
-        "line": "CT",
-        "loss": 0,
-        "node": "QYZJBGP",
-        "speed": 250,
-        "time": "2026-10-11 03:56:18"
+        "speed": 220,
+        "time": "2026-10-11 12:36:21"
     },
     {
         "colo": "NRT",
